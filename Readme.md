@@ -1,4 +1,4 @@
-# Download Ollama setup application from below link and follow install wizard 
+# Download Ollama setup application from below link and follow installation wizard 
 
 `https://ollama.com/download/windows` --Ollama application setup link
 
@@ -27,4 +27,5 @@ Once installed execute below command in cmd to run ollama
 `Extract knowledge-base folder`
 
 # Use Jupyter Lab to work either download extension and setup python kernel in Visual Code or download package from pip `pip install jupyterlab`. After downloading Jupyter Lab from pip, run `jupyter lab` command.
+
 
