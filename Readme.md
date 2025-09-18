@@ -23,8 +23,8 @@ Once installed execute below command in cmd to run ollama
 # Install all the project dependencies
 
 `pip install -r requirements.txt`
-Extract knowledge_base folder
+
+`Extract knowledge-base folder`
 
 # Use Jupyter Lab to work either download extension and setup python kernel in Visual Code or download package from pip `pip install jupyterlab`. After downloading Jupyter Lab from pip, run `jupyter lab` command.
-
 
